@@ -8,8 +8,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^9.2.14"
   },
   "keywords": [],
+  "devDependencies": {},
   "description": ""
 }
