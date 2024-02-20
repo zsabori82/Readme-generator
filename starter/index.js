@@ -42,7 +42,7 @@ async function init() {
     {
       type: 'input',
       name: 'installCommand',
-      message: 'What command should be run to install dependencies? (e.g., npm install):',
+      message: 'What command should be run to install dependencies? (e.g., npm install, nmp test):',
     },
     {
       type: 'input',
